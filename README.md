@@ -3,6 +3,16 @@
 
 ## Bot Name: @KB2322_bot
 - If you would like to use my Bot (@KB2322_bot) open Telegram and search for KB23Bot.
+```
+   Commands - 
+    /start - to start the conversation
+    /clear - to clear the past conversation and context.
+    /help - to get this help menu.
+    /exit - to exit the conversation
+    I hope this helps. :)
+```
+
+
 
 
 ## Prerequisites
