@@ -1,6 +1,10 @@
 # Telagram-Bot-using-GenAI
 
 
+## Bot Name: @KB2322_bot
+- If you would like to use my Bot (@KB2322_bot) open Telegram and search for KB23Bot.
+
+
 ## Prerequisites
 
 To follow this tutorial, you will need:
